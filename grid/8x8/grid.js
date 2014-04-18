@@ -2,7 +2,7 @@
  * Позволяет добавлять на любую страницу нашу сетку 8x8 пикселей. Сетка управляемая, можно её двигать и всячески настраивать.
  * 
  * Добавляется на страницу с помощью вот такой ссылки
- * javascript:(function(){_my_script=document.createElement('SCRIPT');_my_script.type='text/javascript';_my_script.src='https://github.com/mkorshikov/utilites/blob/master/grid/8x8/grid.js';document.getElementsByTagName('head')[0].appendChild(_my_script);})();
+ * javascript:(function(){_my_script=document.createElement('SCRIPT');_my_script.type='text/javascript';_my_script.src='https://raw.githubusercontent.com/mkorshikov/utilites/master/grid/8x8/grid.js';document.getElementsByTagName('head')[0].appendChild(_my_script);})();
  */
 ;(function(document, options) {
 
